@@ -40,7 +40,7 @@ According to Meola (2016), The home appliance sector will be one of the top cata
 
 1 point
 
-True
+False
 
 
 6.
@@ -50,7 +50,7 @@ According to Ericsson Corporation (2016), 74% of people surveyed think that wear
 1 point
 
 
-False
+True
 
 7.
 Question 7
